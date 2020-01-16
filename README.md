@@ -8,7 +8,7 @@ This is the shared repository for the group's database project.
 
 ![](Images/Step%202.jpg)
 
-![](Images/Step%203.jpg)
+![](Images/Step%203.png)
 
 ## Work Flow:
 
