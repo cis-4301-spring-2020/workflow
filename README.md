@@ -3,9 +3,9 @@ This is the shared repository for the group's database project.
 
 ## Initializing the Repository Locally:
 
-![](Images/Step1.jpg)
+![](Images/Step%201.jpg)
 
-![](Images/Step2.jpg)
+![](Images/Step%202.jpg)
 
 ## Work Flow:
 
