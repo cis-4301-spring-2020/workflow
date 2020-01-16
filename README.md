@@ -3,9 +3,12 @@ This is the shared repository for the group's database project.
 
 ## Initializing the Repository Locally:
 
+1.  Navigate to the repository on gitHub.  Then, click on the 
 ![](Images/Step%201.jpg)
 
 ![](Images/Step%202.jpg)
+
+![](Images/Step%203.jpg)
 
 ## Work Flow:
 
