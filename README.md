@@ -3,10 +3,15 @@ This is the shared repository for the group's database project.
 
 ## Initializing the Repository Locally:
 
-1.  Navigate to the repository on gitHub.  Then, click on the 
+1.  Navigate to the repository on gitHub.  Then, click on the *Clone or Download* button:
+
 ![](Images/Step%201.jpg)
 
+2.  Click on the *Copy to Clipboard* button next to the file path:
+
 ![](Images/Step%202.jpg)
+
+3.  Finally, navigate to your command line.  Use *git clone*, then paste the previously copied filepath to the command line.  GitHub will initialize the file structure and start your repository locally!
 
 ![](Images/Step%203.png)
 
